@@ -3,7 +3,7 @@ name = "SigmaOS-GTK-"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "GTK- component"
+description = "GitHub repository has no published branch; component scope remains unclassified."
 upstream = []
 
 [contract]
